@@ -1,0 +1,19 @@
+{
+  "name": "githubquery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "query": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo": "^2.25.0",
+    "apollo-boost": "^0.4.7",
+    "graphql-tag": "^2.10.3",
+    "node-fetch": "^2.6.0"
+  }
+}
