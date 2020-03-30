@@ -1,0 +1,241 @@
+
+> githubquery@1.0.0 query C:\Users\stefa\IdeaProjects\githubquery
+> node index.js
+
+139
+[
+  {
+    "name": "https://github.com/qazbnm456/awesome-web-security",
+    "description": "<div>\n<g-emoji class=\"g-emoji\" alias=\"dog\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/1f436.png\">🐶</g-emoji> A curated list of Web Security materials and resources.</div>",
+    "stargazers": 4621,
+    "cursor": "Y3Vyc29yOjEwMQ=="
+  },
+  {
+    "name": "https://github.com/likedan/Awesome-CoreML-Models",
+    "description": "<div>Largest list of models for Core ML (for iOS 11+)</div>",
+    "stargazers": 4511,
+    "cursor": "Y3Vyc29yOjEwMg=="
+  },
+  {
+    "name": "https://github.com/ashishb/android-security-awesome",
+    "description": "<div>A collection of android security related resources</div>",
+    "stargazers": 4510,
+    "cursor": "Y3Vyc29yOjEwMw=="
+  },
+  {
+    "name": "https://github.com/wbkd/awesome-d3",
+    "description": "<div>A list of D3 libraries, plugins and utilities</div>",
+    "stargazers": 4383,
+    "cursor": "Y3Vyc29yOjEwNA=="
+  },
+  {
+    "name": "https://github.com/apsdehal/awesome-ctf",
+    "description": "<div>A curated list of CTF frameworks, libraries, resources and softwares</div>",
+    "stargazers": 4370,
+    "cursor": "Y3Vyc29yOjEwNQ=="
+  },
+  {
+    "name": "https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know",
+    "description": "<div>A collection of tips to help up your jQuery game</div>",
+    "stargazers": 4132,
+    "cursor": "Y3Vyc29yOjEwNg=="
+  },
+  {
+    "name": "https://github.com/paragonie/awesome-appsec",
+    "description": "<div>A curated list of resources for learning about application security</div>",
+    "stargazers": 4061,
+    "cursor": "Y3Vyc29yOjEwNw=="
+  },
+  {
+    "name": "https://github.com/paralax/awesome-honeypots",
+    "description": "<div>an awesome list of honeypot resources</div>",
+    "stargazers": 4061,
+    "cursor": "Y3Vyc29yOjEwOA=="
+  },
+  {
+    "name": "https://github.com/ChromeDevTools/awesome-chrome-devtools",
+    "description": "<div>Awesome tooling and resources in the Chrome DevTools &amp; DevTools Protocol ecosystem</div>",
+    "stargazers": 4025,
+    "cursor": "Y3Vyc29yOjEwOQ=="
+  },
+  {
+    "name": "https://github.com/willianjusten/awesome-svg",
+    "description": "<div>A curated list of SVG. </div>",
+    "stargazers": 3953,
+    "cursor": "Y3Vyc29yOjExMA=="
+  },
+  {
+    "name": "https://github.com/qinwf/awesome-R",
+    "description": "<div>A curated list of awesome R packages, frameworks and software.</div>",
+    "stargazers": 3929,
+    "cursor": "Y3Vyc29yOjExMQ=="
+  },
+  {
+    "name": "https://github.com/webpack-contrib/awesome-webpack",
+    "description": "<div>A curated list of awesome Webpack resources, libraries and tools</div>",
+    "stargazers": 3885,
+    "cursor": "Y3Vyc29yOjExMg=="
+  },
+  {
+    "name": "https://github.com/AllThingsSmitty/must-watch-css",
+    "description": "<div>A useful list of must-watch talks about CSS</div>",
+    "stargazers": 3825,
+    "cursor": "Y3Vyc29yOjExMw=="
+  },
+  {
+    "name": "https://github.com/addyosmani/es6-tools",
+    "description": "<div>An aggregation of tooling for using ES6 today</div>",
+    "stargazers": 3774,
+    "cursor": "Y3Vyc29yOjExNA=="
+  },
+  {
+    "name": "https://github.com/mmccaff/PlacesToPostYourStartup",
+    "description": "<div>Compiled list of links from \"Ask HN: Where can I post my startup to get beta users?\"</div>",
+    "stargazers": 3651,
+    "cursor": "Y3Vyc29yOjExNQ=="
+  },
+  {
+    "name": "https://github.com/parro-it/awesome-micro-npm-packages",
+    "description": "<div>A curated list of small, focused npm packages.</div>",
+    "stargazers": 3588,
+    "cursor": "Y3Vyc29yOjExNg=="
+  },
+  {
+    "name": "https://github.com/sindresorhus/awesome-npm",
+    "description": "<div>Awesome npm resources and tips</div>",
+    "stargazers": 3490,
+    "cursor": "Y3Vyc29yOjExNw=="
+  },
+  {
+    "name": "https://github.com/RyanNielson/awesome-unity",
+    "description": "<div>A curated list of awesome Unity assets, resources, and more.</div>",
+    "stargazers": 3435,
+    "cursor": "Y3Vyc29yOjExOA=="
+  },
+  {
+    "name": "https://github.com/unicodeveloper/awesome-nextjs",
+    "description": "<div>\n<g-emoji class=\"g-emoji\" alias=\"notebook_with_decorative_cover\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/1f4d4.png\">📔</g-emoji> <g-emoji class=\"g-emoji\" alias=\"books\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png\">📚</g-emoji> A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications) </div>",
+    "stargazers": 3402,
+    "cursor": "Y3Vyc29yOjExOQ=="
+  },
+  {
+    "name": "https://github.com/rossant/awesome-math",
+    "description": "<div>A curated list of awesome mathematics resources</div>",
+    "stargazers": 3344,
+    "cursor": "Y3Vyc29yOjEyMA=="
+  },
+  {
+    "name": "https://github.com/meirwah/awesome-incident-response",
+    "description": "<div>A curated list of tools for incident response</div>",
+    "stargazers": 3305,
+    "cursor": "Y3Vyc29yOjEyMQ=="
+  },
+  {
+    "name": "https://github.com/willianjusten/awesome-audio-visualization",
+    "description": "<div>A curated list about Audio Visualization.</div>",
+    "stargazers": 3171,
+    "cursor": "Y3Vyc29yOjEyMg=="
+  },
+  {
+    "name": "https://github.com/sporto/awesome-elm",
+    "description": "<div>A curated list of useful Elm tutorials, libraries and software. Inspired by awesome list. Feel free to contribute. <g-emoji class=\"g-emoji\" alias=\"rocket\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/1f680.png\">🚀</g-emoji>\n</div>",
+    "stargazers": 3158,
+    "cursor": "Y3Vyc29yOjEyMw=="
+  },
+  {
+    "name": "https://github.com/uraimo/Awesome-Swift-Playgrounds",
+    "description": "<div>A List of Awesome Swift Playgrounds</div>",
+    "stargazers": 3135,
+    "cursor": "Y3Vyc29yOjEyNA=="
+  },
+  {
+    "name": "https://github.com/Zheaoli/awesome-coins",
+    "description": "<div>₿ A guide (for humans!) to cryto-currencies and their algos.</div>",
+    "stargazers": 3112,
+    "cursor": "Y3Vyc29yOjEyNQ=="
+  },
+  {
+    "name": "https://github.com/mmcgrana/services-engineering",
+    "description": "<div>A reading list for services engineering, with a focus on cloud infrastructure services</div>",
+    "stargazers": 2952,
+    "cursor": "Y3Vyc29yOjEyNg=="
+  },
+  {
+    "name": "https://github.com/kitspace/awesome-electronics",
+    "description": "<div>A curated list of awesome resources for electronic engineers and hobbyists</div>",
+    "stargazers": 2936,
+    "cursor": "Y3Vyc29yOjEyNw=="
+  },
+  {
+    "name": "https://github.com/JanVanRyswyck/awesome-talks",
+    "description": "<div>Awesome online talks and screencasts</div>",
+    "stargazers": 2836,
+    "cursor": "Y3Vyc29yOjEyOA=="
+  },
+  {
+    "name": "https://github.com/AdrienTorris/awesome-blazor",
+    "description": "<div>Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.</div>",
+    "stargazers": 2834,
+    "cursor": "Y3Vyc29yOjEyOQ=="
+  },
+  {
+    "name": "https://github.com/onqtam/awesome-cmake",
+    "description": "<div>A curated list of awesome CMake resources, scripts, modules, examples and others.</div>",
+    "stargazers": 2832,
+    "cursor": "Y3Vyc29yOjEzMA=="
+  },
+  {
+    "name": "https://github.com/LappleApple/awesome-leading-and-managing",
+    "description": "<div>Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.</div>",
+    "stargazers": 2826,
+    "cursor": "Y3Vyc29yOjEzMQ=="
+  },
+  {
+    "name": "https://github.com/igorbarinov/awesome-data-engineering",
+    "description": "<div>A curated list of data engineering tools for software developers</div>",
+    "stargazers": 2780,
+    "cursor": "Y3Vyc29yOjEzMg=="
+  },
+  {
+    "name": "https://github.com/sindresorhus/awesome-scifi",
+    "description": "<div>Sci-Fi worth consuming</div>",
+    "stargazers": 2765,
+    "cursor": "Y3Vyc29yOjEzMw=="
+  },
+  {
+    "name": "https://github.com/arslanbilal/git-cheat-sheet",
+    "description": "<div>\n<img class=\"emoji\" title=\":octocat:\" alt=\":octocat:\" src=\"https://github.githubassets.com/images/icons/emoji/octocat.png\" height=\"20\" width=\"20\" align=\"absmiddle\"> git and git flow cheat sheet</div>",
+    "stargazers": 2702,
+    "cursor": "Y3Vyc29yOjEzNA=="
+  },
+  {
+    "name": "https://github.com/hothero/awesome-rails-gem",
+    "description": "<div>A collection of awesome Ruby Gems for Rails development.</div>",
+    "stargazers": 2655,
+    "cursor": "Y3Vyc29yOjEzNQ=="
+  },
+  {
+    "name": "https://github.com/fcambus/nginx-resources",
+    "description": "<div>A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine</div>",
+    "stargazers": 2609,
+    "cursor": "Y3Vyc29yOjEzNg=="
+  },
+  {
+    "name": "https://github.com/pazguille/offline-first",
+    "description": "<div>\n<g-emoji class=\"g-emoji\" alias=\"electric_plug\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/1f50c.png\">🔌</g-emoji> Everything you need to know to create offline-first web apps.</div>",
+    "stargazers": 2601,
+    "cursor": "Y3Vyc29yOjEzNw=="
+  },
+  {
+    "name": "https://github.com/troxler/awesome-css-frameworks",
+    "description": "<div>List of awesome CSS frameworks</div>",
+    "stargazers": 2561,
+    "cursor": "Y3Vyc29yOjEzOA=="
+  },
+  {
+    "name": "https://github.com/awesome-css-group/awesome-css",
+    "description": "<div>\n<g-emoji class=\"g-emoji\" alias=\"art\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/1f3a8.png\">🎨</g-emoji> A curated contents of amazing CSS :)</div>",
+    "stargazers": 2522,
+    "cursor": "Y3Vyc29yOjEzOQ=="
+  }
+]
